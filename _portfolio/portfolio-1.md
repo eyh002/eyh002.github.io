@@ -1,6 +1,6 @@
 ---
 title: "Adipose Tissue Segmentation in Multiple Myeloma Patients"
-excerpt: "Using self-supervised learning methods and U-architectures to build a medical segmentation model"
+excerpt: "Under supervision of In Kyu Lee in the F^2 Skeletal Lab, using self-supervised learning methods and U-architectures to build a medical segmentation model"
 collection: portfolio
 ---
 
