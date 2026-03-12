@@ -23,14 +23,14 @@ repository               : "eyh002/eyh002.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prom.jpg"
   name             : "Ethan Huang"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student"
   location         : "San Jose, CA"
   employer         : "University of California, San Diego"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "eyh002@ucsd.edu" 
 
   # Academic websites
   academia         : # URL
